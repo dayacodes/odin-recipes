@@ -1,3 +1,3 @@
 # odin-recipes
 Recipes web project
-https://github.com/dayacodes/odin-recipes/
+https://dayacodes.github.io/odin-recipes/
